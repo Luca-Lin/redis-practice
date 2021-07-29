@@ -12,9 +12,9 @@ Dev Tool
 - nodemon
 
 Use Redis Data Type
-Hashes
+- Hashes
 
 Redis Command
-HGETALL - Read
-HMSET - Create
-HDEL - Delete
+- HGETALL - Read
+- HMSET - Create
+- HDEL - Delete
